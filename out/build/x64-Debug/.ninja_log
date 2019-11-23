@@ -1,0 +1,10 @@
+# ninja log v5
+1	595	596233272	CMakeFiles/lab03.dir/sources/source.cpp.obj	a370096a8a4f42ea
+596	656	596233272	lab03d.lib	607d57be3f87a8f3
+3	869	596233272	CMakeFiles/tests.dir/tests/test.cpp.obj	b57aacb7bab07d26
+870	1407	596233273	tests.exe	c5d25c6224909d07
+0	560	596233324	CMakeFiles/lab03.dir/sources/source.cpp.obj	a370096a8a4f42ea
+561	591	596233324	lab03d.lib	607d57be3f87a8f3
+591	944	596233325	tests.exe	c5d25c6224909d07
+0	805	596233445	CMakeFiles/tests.dir/tests/test.cpp.obj	b57aacb7bab07d26
+807	1006	596233445	tests.exe	c5d25c6224909d07
